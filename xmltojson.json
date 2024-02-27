@@ -1,0 +1,1633 @@
+{
+  "xbrl": {
+    "schemaRef": "",
+    "context": [
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneOperatingExpenses01Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneOperatingExpenses02Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneOperatingExpenses03Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneOperatingExpenses04Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneOperatingExpenses05Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:FourOperatingExpenses01Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:FourOperatingExpenses02Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:FourOperatingExpenses03Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:FourOperatingExpenses04Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:FourOperatingExpenses05Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "instant": "2023-12-31"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentRevenue01Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentRevenue02Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentRevenue03Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentRevenue04Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentRevenue05Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentRevenue06Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentRevenue07Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentRevenue08Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentRevenue09Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentRevenue10Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:FourReportableSegmentRevenue01Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:FourReportableSegmentRevenue02Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:FourReportableSegmentRevenue03Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:FourReportableSegmentRevenue04Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:FourReportableSegmentRevenue05Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:FourReportableSegmentRevenue06Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:FourReportableSegmentRevenue07Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:FourReportableSegmentRevenue08Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:FourReportableSegmentRevenue09Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:FourReportableSegmentRevenue10Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentResults01Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentResults02Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentResults03Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentResults04Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentResults05Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentResults06Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentResults07Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentResults08Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentResults09Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentResults10Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:FourReportableSegmentResults01Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:FourReportableSegmentResults02Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:FourReportableSegmentResults03Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:FourReportableSegmentResults04Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:FourReportableSegmentResults05Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:FourReportableSegmentResults06Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:FourReportableSegmentResults07Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:FourReportableSegmentResults08Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:FourReportableSegmentResults09Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:FourReportableSegmentResults10Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentAssets01Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentAssets02Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentAssets03Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentAssets04Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentAssets05Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentAssets06Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentAssets07Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentAssets08Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentAssets09Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentAssets10Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentLiabilities01Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "instant": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentLiabilities01Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentLiabilities02Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "instant": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentLiabilities02Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentLiabilities03Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "instant": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentLiabilities03Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentLiabilities04Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "instant": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentLiabilities04Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentLiabilities05Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "instant": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentLiabilities05Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentLiabilities06Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "instant": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentLiabilities06Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentLiabilities07Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "instant": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentLiabilities07Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentLiabilities08Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "instant": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentLiabilities08Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentLiabilities09Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "instant": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentLiabilities09Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentLiabilities10Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "instant": "2023-12-31"
+        },
+        "scenario": {
+          "explicitMember": "in-bse-fin:OneReportableSegmentLiabilities10Member"
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "typedMember": {
+            "ItemsThatWillNotBeReclassifiedToProfitAndLossDomain": "in-bse-fin:OneItemsThatWillNotBeReclassifiedToProfitAndLoss01Member"
+          }
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "typedMember": {
+            "ItemsThatWillNotBeReclassifiedToProfitAndLossDomain": "in-bse-fin:OneItemsThatWillNotBeReclassifiedToProfitAndLoss02Member"
+          }
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "typedMember": {
+            "ItemsThatWillNotBeReclassifiedToProfitAndLossDomain": "in-bse-fin:OneItemsThatWillNotBeReclassifiedToProfitAndLoss03Member"
+          }
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "typedMember": {
+            "ItemsThatWillNotBeReclassifiedToProfitAndLossDomain": "in-bse-fin:FourItemsThatWillNotBeReclassifiedToProfitAndLoss01Member"
+          }
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "typedMember": {
+            "ItemsThatWillNotBeReclassifiedToProfitAndLossDomain": "in-bse-fin:FourItemsThatWillNotBeReclassifiedToProfitAndLoss02Member"
+          }
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "typedMember": {
+            "ItemsThatWillNotBeReclassifiedToProfitAndLossDomain": "in-bse-fin:FourItemsThatWillNotBeReclassifiedToProfitAndLoss03Member"
+          }
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "typedMember": {
+            "ItemsThatWillBeReclassifiedToProfitAndLossDomain": "in-bse-fin:OneItemsThatWillBeReclassifiedToProfitAndLoss01Member"
+          }
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "typedMember": {
+            "ItemsThatWillBeReclassifiedToProfitAndLossDomain": "in-bse-fin:OneItemsThatWillBeReclassifiedToProfitAndLoss02Member"
+          }
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "typedMember": {
+            "ItemsThatWillBeReclassifiedToProfitAndLossDomain": "in-bse-fin:OneItemsThatWillBeReclassifiedToProfitAndLoss03Member"
+          }
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "typedMember": {
+            "ItemsThatWillBeReclassifiedToProfitAndLossDomain": "in-bse-fin:OneItemsThatWillBeReclassifiedToProfitAndLoss04Member"
+          }
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "typedMember": {
+            "ItemsThatWillBeReclassifiedToProfitAndLossDomain": "in-bse-fin:FourItemsThatWillBeReclassifiedToProfitAndLoss01Member"
+          }
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "typedMember": {
+            "ItemsThatWillBeReclassifiedToProfitAndLossDomain": "in-bse-fin:FourItemsThatWillBeReclassifiedToProfitAndLoss02Member"
+          }
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "typedMember": {
+            "ItemsThatWillBeReclassifiedToProfitAndLossDomain": "in-bse-fin:FourItemsThatWillBeReclassifiedToProfitAndLoss03Member"
+          }
+        }
+      },
+      {
+        "entity": {
+          "identifier": "TATAMOTORS"
+        },
+        "period": {
+          "startDate": "2023-10-01",
+          "endDate": "2023-12-31"
+        },
+        "scenario": {
+          "typedMember": {
+            "ItemsThatWillBeReclassifiedToProfitAndLossDomain": "in-bse-fin:FourItemsThatWillBeReclassifiedToProfitAndLoss04Member"
+          }
+        }
+      }
+    ],
+    "unit": [
+      {
+        "measure": "iso4217:INR"
+      },
+      {
+        "measure": "xbrli:pure"
+      },
+      {
+        "measure": "xbrli:shares"
+      },
+      {
+        "divide": {
+          "unitNumerator": {
+            "measure": "iso4217:INR"
+          },
+          "unitDenominator": {
+            "measure": "xbrli:shares"
+          }
+        }
+      }
+    ],
+    "ScripCode": 500570,
+    "Symbol": "TATAMOTORS",
+    "MSEISymbol": "NOTLISTED",
+    "NameOfTheCompany": "Tata Motors Limited",
+    "ClassOfSecurity": "Equity",
+    "DateOfStartOfFinancialYear": "2023-04-01",
+    "DateOfEndOfFinancialYear": "2024-03-31",
+    "DateOfBoardMeetingWhenFinancialResultsWereApproved": "2024-02-02",
+    "DateOnWhichPriorIntimationOfTheMeetingForConsideringFinancialResultsWasInformedToTheExchange": "2024-01-15",
+    "DescriptionOfPresentationCurrency": "INR",
+    "LevelOfRoundingUsedInFinancialStatements": "Crores",
+    "ReportingQuarter": "Third quarter",
+    "StartTimeOfBoardMeeting": "11:30:00",
+    "EndTimeOfBoardMeeting": "16:00:00",
+    "DateOfStartOfBoardMeeting": "2024-02-02",
+    "DateOfEndOfBoardMeeting": "2024-02-02",
+    "DeclarationOfUnmodifiedOpinionOrStatementOnImpactOfAuditQualification": "Not applicable",
+    "IsCompanyReportingMultisegmentOrSingleSegment": [
+      "Multi segment",
+      "Multi segment"
+    ],
+    "DateOfStartOfReportingPeriod": [
+      "2023-10-01",
+      "2023-04-01"
+    ],
+    "DateOfEndOfReportingPeriod": [
+      "2023-12-31",
+      "2023-12-31"
+    ],
+    "WhetherResultsAreAuditedOrUnaudited": [
+      "Unaudited",
+      "Unaudited"
+    ],
+    "NatureOfReportStandaloneConsolidated": [
+      "Consolidated",
+      "Consolidated"
+    ],
+    "RevenueFromOperations": [
+      1105771400000,
+      3179414600000
+    ],
+    "OtherIncome": [
+      14988000000,
+      44900800000
+    ],
+    "Income": [
+      1120759400000,
+      3224315400000
+    ],
+    "CostOfMaterialsConsumed": [
+      638504200000,
+      1843147300000
+    ],
+    "PurchasesOfStockInTrade": [
+      60941100000,
+      176297300000
+    ],
+    "ChangesInInventoriesOfFinishedGoodsWorkInProgressAndStockInTrade": [
+      -16668600000,
+      -29736400000
+    ],
+    "EmployeeBenefitExpense": [
+      111022400000,
+      310529500000
+    ],
+    "FinanceCosts": [
+      24849100000,
+      77519900000
+    ],
+    "DepreciationDepletionAndAmortisationExpense": [
+      68500000000,
+      201196000000
+    ],
+    "OtherExpenses": [
+      157788600000,
+      455146600000,
+      -67717500000,
+      0,
+      -850300000,
+      198952700000,
+      27403700000,
+      -194050400000,
+      498000000,
+      1639700000,
+      570013200000,
+      77046100000
+    ],
+    "Expenses": [
+      1044936800000,
+      3034100200000
+    ],
+    "ProfitBeforeExceptionalItemsAndTax": [
+      75822600000,
+      190215200000
+    ],
+    "ExceptionalItemsBeforeTax": [
+      -883000000,
+      -8889700000
+    ],
+    "ProfitBeforeTax": [
+      74939600000,
+      181325500000
+    ],
+    "CurrentTax": [
+      11452500000,
+      36181700000
+    ],
+    "DeferredTax": [
+      -6034600000,
+      6894700000
+    ],
+    "TaxExpense": [
+      5417900000,
+      43076400000
+    ],
+    "NetMovementInRegulatoryDeferralAccountBalancesRelatedToProfitOrLossAndTheRelatedDeferredTaxMovement": [
+      0,
+      0
+    ],
+    "ProfitLossForPeriodFromContinuingOperations": [
+      69521700000,
+      138249100000
+    ],
+    "ProfitLossFromDiscontinuedOperationsBeforeTax": [
+      0,
+      0
+    ],
+    "TaxExpenseOfDiscontinuedOperations": [
+      0,
+      0
+    ],
+    "ProfitLossFromDiscontinuedOperationsAfterTax": [
+      0,
+      0
+    ],
+    "ShareOfProfitLossOfAssociatesAndJointVenturesAccountedForUsingEquityMethod": [
+      1932600000,
+      4532500000
+    ],
+    "ProfitLossForPeriod": [
+      71454300000,
+      142781600000
+    ],
+    "OtherComprehensiveIncomeNetOfTaxes": [
+      46014600000,
+      66840100000
+    ],
+    "ComprehensiveIncomeForThePeriod": [
+      117468900000,
+      209621700000
+    ],
+    "ProfitOrLossAttributableToOwnersOfParent": [
+      70251100000,
+      139919100000
+    ],
+    "ProfitOrLossAttributableToNonControllingInterests": [
+      1203200000,
+      2862500000
+    ],
+    "ComprehensiveIncomeForThePeriodAttributableToOwnersOfParent": [
+      116660700000,
+      207127100000
+    ],
+    "ComprehensiveIncomeForThePeriodAttributableToOwnersOfParentNonControllingInterests": [
+      808200000,
+      2494600000
+    ],
+    "PaidUpValueOfEquityShareCapital": [
+      7663200000,
+      7663200000
+    ],
+    "FaceValueOfEquityShareCapital": [
+      2,
+      2
+    ],
+    "BasicEarningsLossPerShareFromContinuingOperations": [
+      18.32,
+      36.51
+    ],
+    "DilutedEarningsLossPerShareFromContinuingOperations": [
+      18.3,
+      36.48
+    ],
+    "BasicEarningsLossPerShareFromDiscontinuedOperations": [
+      0,
+      0
+    ],
+    "DilutedEarningsLossPerShareFromDiscontinuedOperations": [
+      0,
+      0
+    ],
+    "BasicEarningsLossPerShareFromContinuingAndDiscontinuedOperations": [
+      18.32,
+      36.51
+    ],
+    "DilutedEarningsLossPerShareFromContinuingAndDiscontinuedOperations": [
+      18.3,
+      36.48
+    ],
+    "DebtEquityRatio": [
+      0.02,
+      0.02
+    ],
+    "DebtServiceCoverageRatio": [
+      0.01,
+      0.01
+    ],
+    "InterestServiceCoverageRatio": [
+      0.05,
+      0.04
+    ],
+    "DisclosureOfNotesOnFinancialResultsExplanatoryTextBlock": "Basic Earnings per share for 'A' Ordinary Shares (Face Value of Rs. 2 Each) is Rs. 18.42 for quarter ended December 23 and Rs. 36.61 for nine months ended December 23.      Diluted Earnings per share for 'A' Ordinary Shares (Face Value of Rs. 2 Each) is Rs. 18.40 for quarter ended December 23 and Rs. 36.58 for nine months ended December 23.",
+    "DescriptionOfOtherExpenses": [
+      "Amount transferred to capital and other account",
+      "Compulsory convertible preference share measured at fair value",
+      "Foreign exchange (gain)/loss (net)",
+      "Other expenses",
+      "Product development/engineering expenses",
+      "Amount transferred to capital and other account",
+      "Compulsory convertible preference share measured at fair value",
+      "Foreign exchange (gain)/loss (net)",
+      "Other expenses",
+      "Product development/engineering expenses"
+    ],
+    "DescriptionOfReportableSegment": [
+      "(a) Commercial Vehicle",
+      "(b) Passenger Vehicle",
+      "(c) Corporate/Unallocable",
+      "- Jaguar and Land Rover",
+      "- Tata and other brands vehicles",
+      "- Vehicle Financing",
+      "Automotive and related activity",
+      "Less: Inter segment eliminations",
+      "Less: Intra segment eliminations",
+      "Others",
+      "(a) Commercial Vehicle",
+      "(b) Passenger Vehicle",
+      "(c) Corporate/Unallocable",
+      "- Jaguar and Land Rover",
+      "- Tata and other brands vehicles",
+      "- Vehicle Financing",
+      "Automotive and related activity",
+      "Less: Inter segment eliminations",
+      "Less: Intra segment eliminations",
+      "Others",
+      "(a) Commercial Vehicle",
+      "(b) Passenger Vehicle",
+      "(c) Corporate/Unallocable",
+      "- Jaguar and Land Rover",
+      "- Tata and other brands vehicles",
+      "- Vehicle Financing",
+      "Automotive and related activity",
+      "Less: Inter segment eliminations",
+      "Less: Intra segment eliminations",
+      "Others",
+      "(a) Commercial Vehicle",
+      "(b) Passenger Vehicle",
+      "(c) Corporate/Unallocable",
+      "- Jaguar and Land Rover",
+      "- Tata and other brands vehicles",
+      "- Vehicle Financing",
+      "Automotive and related activity",
+      "Less: Inter segment eliminations",
+      "Less: Intra segment eliminations",
+      "Others",
+      "(a) Commercial Vehicle",
+      "(b) Passenger Vehicle",
+      "(c) Corporate/Unallocable",
+      "- Jaguar and Land Rover",
+      "- Tata and other brands vehicles",
+      "- Vehicle Financing",
+      "Automotive and related activity",
+      "Less: Inter segment eliminations",
+      "Less: Intra segment eliminations",
+      "Others",
+      "(a) Commercial Vehicle",
+      "(b) Passenger Vehicle",
+      "(c) Corporate/Unallocable",
+      "- Jaguar and Land Rover",
+      "- Tata and other brands vehicles",
+      "- Vehicle Financing",
+      "Automotive and related activity",
+      "Less: Inter segment eliminations",
+      "Less: Intra segment eliminations",
+      "Others"
+    ],
+    "SegmentRevenue": [
+      201226700000,
+      129100900000,
+      1820200000,
+      766552900000,
+      0,
+      9969500000,
+      0,
+      0,
+      -13188600000,
+      15265900000,
+      572006000000,
+      379226600000,
+      4414100000,
+      2198373900000,
+      0,
+      31124600000,
+      0,
+      0,
+      -34931900000,
+      43487300000,
+      1110747500000,
+      3193700600000
+    ],
+    "InterSegmentRevenue": [
+      4976100000,
+      14286000000
+    ],
+    "SegmentRevenueFromOperations": [
+      1105771400000,
+      3179414600000
+    ],
+    "SegmentProfitLossBeforeTaxAndFinanceCosts": [
+      17513000000,
+      2784500000,
+      -533000000,
+      68807700000,
+      0,
+      -4604900000,
+      0,
+      -10300000,
+      -629400000,
+      2377100000,
+      44099500000,
+      5886500000,
+      -2325600000,
+      179471100000,
+      0,
+      -6877200000,
+      0,
+      73700000,
+      -689700000,
+      7333200000,
+      85704700000,
+      226971500000
+    ],
+    "SegmentFinanceCosts": [
+      18248100000,
+      57476700000
+    ],
+    "OtherUnallocableExpenditureNetOffUnAllocableIncome": [
+      -7483000000,
+      -11830700000
+    ],
+    "DisclosureOfNotesOnSegmentsExplanatoryTextBlock": "i)Unallocable assets includes Investment in equity accounted investees of Rs. 5,155.87 crores",
+    "SegmentProfitBeforeTax": [
+      74939600000,
+      181325500000
+    ],
+    "SegmentAssets": [
+      349420900000,
+      212810700000,
+      16366900000,
+      1936904800000,
+      0,
+      318475700000,
+      0,
+      -14074900000,
+      -13046000000,
+      46505700000,
+      2853363800000
+    ],
+    "UnAllocableAssets": 679898300000,
+    "NetSegmentAssets": 3533262100000,
+    "SegmentLiabilities": [
+      239453200000,
+      146075200000,
+      12012300000,
+      1192817300000,
+      0,
+      13046400000,
+      0,
+      -5035400000,
+      -10096100000,
+      24588700000,
+      1612861600000
+    ],
+    "UnAllocableLiabilities": 1161169600000,
+    "NetSegmentLiabilities": 2774031200000,
+    "DescriptionOfItemThatWillNotBeReclassifiedToProfitAndLoss": [
+      "Remeasurement (losses)/gain on defined benefit obligations (net)",
+      "Equity instruments at fair value through other comprehensive income (net)",
+      "Share of other comprehensive income in equity accounted investees (net)",
+      "Remeasurement (losses)/gain on defined benefit obligations (net)",
+      "Equity instruments at fair value through other comprehensive income (net)",
+      "Share of other comprehensive income in equity accounted investees (net)"
+    ],
+    "AmountOfItemThatWillNotBeReclassifiedToProfitAndLoss": [
+      -28796600000,
+      669600000,
+      -2800000,
+      -42460700000,
+      2775700000,
+      -1200000,
+      -28129800000,
+      -39686200000
+    ],
+    "IncomeTaxRelatingToItmesThatWillNotBeReclassifiedToProfitOrLoss": [
+      -7198000000,
+      -10597900000
+    ],
+    "DescriptionOfItemThatWillBeReclassifiedToProfitAndLoss": [
+      "Exchange differences in translating the financial statements of foreign operations",
+      "Gains/(losses) in cash flow hedges (including forecast inventory purchases)",
+      "Gains/(losses) on finance receivables held at fair value through other comprehensive income (net)",
+      "Share of other comprehensive income in equity accounted investees (net)",
+      "Exchange differences in translating the financial statements of foreign operations",
+      "Gains/(losses) in cash flow hedges (including forecast inventory purchases)",
+      "Gains/(losses) on finance receivables held at fair value through other comprehensive income (net)",
+      "Share of other comprehensive income in equity accounted investees (net)"
+    ],
+    "AmountOfItemThatWillBeReclassifiedToProfitAndLoss": [
+      16821900000,
+      61984800000,
+      444000000,
+      738600000,
+      14161400000,
+      91476800000,
+      -714300000,
+      -798200000,
+      79989300000,
+      104125700000
+    ],
+    "IncomeTaxRelatingToItmesThatWillBeReclassifiedToProfitOrLoss": [
+      13042900000,
+      8197300000
+    ]
+  }
+}
